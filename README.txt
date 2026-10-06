@@ -1,5 +1,9 @@
-AB Social Portfolio Website
+AB Social final portfolio
 
-This is a simple one-page portfolio website for AB Social.
+Updated:
+- WhatsApp: +234 810 710 8087
+- Email: folowoseleabraham@gmail.com
+- Facebook: Folowosele Ololade
+- Facebook profile link: https://web.facebook.com/profile.php?id=61586138806649&sk=directory_names
 
-To publish it for free, upload index.html and the JPG files to a static host such as GitHub Pages or Netlify.
+Upload ALL files in this folder to the ROOT of your GitHub Pages repository and replace the existing files.
